@@ -90,5 +90,3 @@ For any questions or suggestions, feel free to open an issue or contact us at [y
 
 Happy scanning with WormGPTPScanner! Stay safe and secure. 🚀🔍
 ```
-
-You can replace `https://wormgptproject.000webhostapp.com/Screenshot%202024-06-05%20050107.png` with the actual URL of the banner image if you have one. This README provides a comprehensive overview of the project, including installation, usage, and contribution guidelines.

@@ -30,6 +30,10 @@ Navigate to the project directory:
 cd WormGPTPScanner
 ```
 
+```bash
+pip install -r requirements.txt WormGPTPScanner.py
+```
+
 ## Usage
 
 Run the WormGPTPScanner script to start scanning:

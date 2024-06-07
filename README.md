@@ -31,7 +31,7 @@ cd WormGPTPScanner
 ```
 
 ```bash
-pip install -r requirements.txt WormGPTPScanner.py
+pip install -r requirements.txt
 ```
 
 ## Usage
